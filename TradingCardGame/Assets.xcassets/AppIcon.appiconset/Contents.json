@@ -68,4 +68,9 @@
     {
       "idiom" : "ipad",
       "size" : "40x40",
-      "sca
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "ipad",
+      "size" : "76x76",
+   
