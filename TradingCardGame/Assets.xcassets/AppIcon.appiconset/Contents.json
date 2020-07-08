@@ -83,4 +83,8 @@
     {
       "idiom" : "ipad",
       "size" : "83.5x83.5",
-      "s
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "ios-marketing",
+      "size" : "10
