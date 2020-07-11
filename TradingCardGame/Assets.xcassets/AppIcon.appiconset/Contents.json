@@ -87,4 +87,10 @@
     },
     {
       "idiom" : "ios-marketing",
-      "size" : "10
+      "size" : "1024x1024",
+      "scale" : "1x"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+ 
