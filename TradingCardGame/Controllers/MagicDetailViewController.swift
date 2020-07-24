@@ -11,3 +11,15 @@ import UIKit
 
 class MagicDetailViewController: UIViewController {
   
+  @IBOutlet weak var magicDescriptionTextView: UITextView!
+  @IBOutlet weak var magicCardNameLabel: UILabel!
+  @IBOutlet weak var magicLanguageLabel: UILabel!
+
+  
+    override func viewDidLoad() {
+        super.viewDidLoad()
+
+        // Do any additional setup after loading the view.
+    }
+
+}
