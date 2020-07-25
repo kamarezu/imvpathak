@@ -8,4 +8,5 @@
 
 import UIKit
 
-class PokemonDetailViewController: UIViewController
+class PokemonDetailViewController: UIViewController {
+  @IBOutlet weak var pokemonAttackCollectionView: UICollectio
