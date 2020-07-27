@@ -12,4 +12,7 @@ class PokemonDetailViewController: UIViewController {
   @IBOutlet weak var pokemonAttackCollectionView: UICollectionView!
   @IBOutlet weak var pokemonCardImage: UIImageView!
   
-  override func vie
+  override func viewDidLoad() {
+        super.viewDidLoad()
+
+        // Do any additional setup after loa
