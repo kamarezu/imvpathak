@@ -9,4 +9,7 @@
 import UIKit
 
 class PokemonDetailViewController: UIViewController {
-  @IBOutlet weak var pokemonAttackCollectionView: UICollectio
+  @IBOutlet weak var pokemonAttackCollectionView: UICollectionView!
+  @IBOutlet weak var pokemonCardImage: UIImageView!
+  
+  override func vie
