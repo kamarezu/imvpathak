@@ -7,3 +7,10 @@
 //
 
 import Foundation
+
+struct Magic: Codable {
+    let cards : [magicInfo]
+}
+
+struct magicInfo: Codable {
+  
