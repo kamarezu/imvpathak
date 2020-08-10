@@ -13,4 +13,9 @@ struct Magic: Codable {
 }
 
 struct magicInfo: Codable {
+    let foreignNames: [foreignInfo]
+}
+
+struct foreignInfo: Codable {
+    let name: String
   
