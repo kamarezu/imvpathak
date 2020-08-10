@@ -18,4 +18,7 @@ struct magicInfo: Codable {
 
 struct foreignInfo: Codable {
     let name: String
-  
+    let text: String
+    let imageUrl: String
+    let language: String
+}
