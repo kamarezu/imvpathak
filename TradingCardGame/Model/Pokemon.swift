@@ -8,4 +8,9 @@
 
 import Foundation
 
-struct Pokemons: Co
+struct Pokemons: Codable {
+    let cards : [cardInfo]
+}
+
+struct cardInfo: Codable {
+    
