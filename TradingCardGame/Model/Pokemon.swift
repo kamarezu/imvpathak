@@ -13,4 +13,6 @@ struct Pokemons: Codable {
 }
 
 struct cardInfo: Codable {
-    
+    let name: String
+    let nationalPokedexNumber: Int
+    let imageUrl: St
