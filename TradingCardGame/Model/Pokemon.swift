@@ -15,4 +15,9 @@ struct Pokemons: Codable {
 struct cardInfo: Codable {
     let name: String
     let nationalPokedexNumber: Int
-    let imageUrl: St
+    let imageUrl: String
+    let imageUrlHiRes: String
+    let attacks : [attackInfo]
+}
+
+struct attackInfo: C
