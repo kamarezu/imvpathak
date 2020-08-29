@@ -20,4 +20,8 @@ struct cardInfo: Codable {
     let attacks : [attackInfo]
 }
 
-struct attackInfo: C
+struct attackInfo: Codable {
+    let name : String
+    let text: String
+    let damage: String
+}
