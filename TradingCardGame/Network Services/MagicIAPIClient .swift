@@ -9,4 +9,5 @@
 import Foundation
 
 final class magicAPIClient {
-    static func MagicInfo(completionHan
+    static func MagicInfo(completionHandler: @escaping(AppError?,[magicInfo]?)-> Void) {
+        NetworkHelper.shared.perfo
