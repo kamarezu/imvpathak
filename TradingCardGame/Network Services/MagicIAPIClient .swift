@@ -10,4 +10,4 @@ import Foundation
 
 final class magicAPIClient {
     static func MagicInfo(completionHandler: @escaping(AppError?,[magicInfo]?)-> Void) {
-        NetworkHelper.shared.perfo
+        NetworkHelper.shared.performDataTask(endpointURLString: "https://api.magicthegathering.io/v1/cards?contain
