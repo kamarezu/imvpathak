@@ -6,4 +6,7 @@
 //  Copyright © 2019 J. All rights reserved.
 //
 
-import 
+import Foundation
+
+final class magicAPIClient {
+    static func MagicInfo(completionHan
