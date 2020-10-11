@@ -15,4 +15,5 @@ final class magicAPIClient {
                 completionHandler(appError,nil)
             }
             guard let response = httpResponse,
-      
+                (200...299).contains(response.statusCode) else {
+     
