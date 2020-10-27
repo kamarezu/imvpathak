@@ -22,4 +22,6 @@ final class magicAPIClient {
             }
             if let data = data {
                 do {
-                    let magicData = try JSONDecoder().decode(Magic.self
+                    let magicData = try JSONDecoder().decode(Magic.self, from: data)
+                    completionHandler(nil, magicData.cards)
+    
