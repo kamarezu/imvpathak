@@ -18,3 +18,7 @@ final class magicAPIClient {
                 (200...299).contains(response.statusCode) else {
                     let statusCode = httpResponse?.statusCode ?? -999
                     completionHandler(AppError.badStatusCode(String(statusCode)), nil)
+                    return
+            }
+            if let data = data {
+        
