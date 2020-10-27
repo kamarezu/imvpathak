@@ -21,4 +21,5 @@ final class magicAPIClient {
                     return
             }
             if let data = data {
-        
+                do {
+                    let magicData = try JSONDecoder().decode(Magic.self
