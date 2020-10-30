@@ -30,4 +30,6 @@ final class magicAPIClient {
             }
         }
         
-    
+    }
+}
+
