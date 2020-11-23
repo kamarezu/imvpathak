@@ -6,4 +6,8 @@
 //  Copyright © 2019 J. All rights reserved.
 //
 
-import Founda
+import Foundation
+
+public final class NetworkHelper {
+    private init() {
+        let cache = URLCach
