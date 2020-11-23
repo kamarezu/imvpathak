@@ -10,4 +10,4 @@ import Foundation
 
 public final class NetworkHelper {
     private init() {
-        let cache = URLCach
+        let cache = URLCache(memoryCapacity: 10 * 1024 * 1024, diskCapacity: 10 * 1024 * 1024, diskPath: ni
