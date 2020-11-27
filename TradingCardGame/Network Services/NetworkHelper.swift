@@ -18,4 +18,4 @@ public final class NetworkHelper {
     public func performDataTask(endpointURLString: String,
                                 httpMethod: String,
                                 httpBody: Data?,
-          
+                                completionHandler: @escaping (AppError?, Data?
