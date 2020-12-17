@@ -19,4 +19,5 @@ public final class NetworkHelper {
                                 httpMethod: String,
                                 httpBody: Data?,
                                 completionHandler: @escaping (AppError?, Data?, HTTPURLResponse?) ->Void) {
-        guard let url = URL(string: endpointURLSt
+        guard let url = URL(string: endpointURLString) else {
+            completionHandler(AppError.badURL("\(endpointURLStrin
