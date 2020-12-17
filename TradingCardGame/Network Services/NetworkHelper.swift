@@ -24,4 +24,5 @@ public final class NetworkHelper {
             return
         }
         var request = URLRequest(url: url)
- 
+        request.httpMethod = httpMethod
+        let task = URLSession.shared.dataTask(wi
