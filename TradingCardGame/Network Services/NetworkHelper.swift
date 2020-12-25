@@ -25,4 +25,6 @@ public final class NetworkHelper {
         }
         var request = URLRequest(url: url)
         request.httpMethod = httpMethod
-        let task = URLSession.shared.dataTask(wi
+        let task = URLSession.shared.dataTask(with: request) { (data, response, error) in
+            if let error = error {
+         
