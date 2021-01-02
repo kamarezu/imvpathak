@@ -27,4 +27,6 @@ public final class NetworkHelper {
         request.httpMethod = httpMethod
         let task = URLSession.shared.dataTask(with: request) { (data, response, error) in
             if let error = error {
-                completionHandler(AppError.networkError(error), nil, response as? 
+                completionHandler(AppError.networkError(error), nil, response as? HTTPURLResponse)
+                return
+            } else if let dat
