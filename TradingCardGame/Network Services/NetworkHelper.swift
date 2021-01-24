@@ -36,4 +36,5 @@ public final class NetworkHelper {
         task.resume()
     }
     
-    public
+    public func performUploadTask(endpointURLString: String,
+                       
