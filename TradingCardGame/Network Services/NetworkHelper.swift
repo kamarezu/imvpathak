@@ -39,4 +39,5 @@ public final class NetworkHelper {
     public func performUploadTask(endpointURLString: String,
                                   httpMethod: String,
                                   httpBody: Data?,
-                                  completionHandler: @escaping (AppError?, Data?,
+                                  completionHandler: @escaping (AppError?, Data?, HTTPURLResponse?) ->Void) {
+        guard let url = URL(string: endpointUR
