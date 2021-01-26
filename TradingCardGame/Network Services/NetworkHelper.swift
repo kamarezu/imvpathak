@@ -39,4 +39,4 @@ public final class NetworkHelper {
     public func performUploadTask(endpointURLString: String,
                                   httpMethod: String,
                                   httpBody: Data?,
-  
+                                  completionHandler: @escaping (AppError?, Data?,
