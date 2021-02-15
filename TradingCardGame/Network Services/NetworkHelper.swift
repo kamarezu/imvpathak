@@ -44,4 +44,6 @@ public final class NetworkHelper {
             completionHandler(AppError.badURL("\(endpointURLString)"), nil, nil)
             return
         }
-        var request = URLRequ
+        var request = URLRequest(url: url)
+        request.httpMethod = httpMethod
+        request.setValue("applicatio
