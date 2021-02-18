@@ -46,4 +46,6 @@ public final class NetworkHelper {
         }
         var request = URLRequest(url: url)
         request.httpMethod = httpMethod
-        request.setValue("applicatio
+        request.setValue("application/json", forHTTPHeaderField: "Content-Type")
+        
+        let task = URLSession.share
