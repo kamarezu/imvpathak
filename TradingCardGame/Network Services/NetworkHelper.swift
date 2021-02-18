@@ -50,4 +50,6 @@ public final class NetworkHelper {
         
         let task = URLSession.shared.uploadTask(with: request, from: httpBody) { (data, response, error) in
             if let error = error {
-                completionHandler(AppError.networkError
+                completionHandler(AppError.networkError(error), nil, response as? HTTPURLResponse)
+                return
+            } els
