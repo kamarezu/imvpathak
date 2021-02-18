@@ -49,4 +49,5 @@ public final class NetworkHelper {
         request.setValue("application/json", forHTTPHeaderField: "Content-Type")
         
         let task = URLSession.shared.uploadTask(with: request, from: httpBody) { (data, response, error) in
-         
+            if let error = error {
+                completionHandler(AppError.networkError
