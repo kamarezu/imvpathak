@@ -52,4 +52,5 @@ public final class NetworkHelper {
             if let error = error {
                 completionHandler(AppError.networkError(error), nil, response as? HTTPURLResponse)
                 return
-            } els
+            } else if let data = data {
+                completionHandler(nil, data, response as? HTTP
