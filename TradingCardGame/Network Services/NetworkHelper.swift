@@ -53,4 +53,9 @@ public final class NetworkHelper {
                 completionHandler(AppError.networkError(error), nil, response as? HTTPURLResponse)
                 return
             } else if let data = data {
-                completionHandler(nil, data, response as? HTTP
+                completionHandler(nil, data, response as? HTTPURLResponse)
+            }
+        }
+        task.resume()
+    }
+}
