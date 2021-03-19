@@ -51,3 +51,11 @@ public final class ImageHelper {
                         completionHandler(nil, image)
                     }
                 }
+            }
+        }
+    }
+    
+    public func image(forKey key: NSString) -> UIImage? {
+        return imageCache.object(forKey: key)
+    }
+}
