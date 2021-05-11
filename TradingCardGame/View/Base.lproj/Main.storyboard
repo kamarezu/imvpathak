@@ -13,4 +13,5 @@
         <!--Item-->
         <scene sceneID="tne-QT-ifu">
             <objects>
-                <viewController id="BYZ-38-t0r" customClass="PokemonViewController" customModule="TradingCardGame" customModuleProvider="target" sce
+                <viewController id="BYZ-38-t0r" customClass="PokemonViewController" customModule="TradingCardGame" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="sc
