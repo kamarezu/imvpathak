@@ -31,4 +31,4 @@
                                     <collectionViewCell opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" reuseIdentifier="PokemonCardCell" id="e7H-sy-wGC" customClass="PokemonCardCell" customModule="TradingCardGame" customModuleProvider="target">
                                         <rect key="frame" x="81" y="0.0" width="213" height="243"/>
                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                              
+                                        <view key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="
