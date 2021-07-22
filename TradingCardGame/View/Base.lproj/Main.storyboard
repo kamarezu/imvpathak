@@ -32,4 +32,5 @@
                                         <rect key="frame" x="81" y="0.0" width="213" height="243"/>
                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                         <view key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" insetsLayoutMarginsFromSafeArea="NO">
-                                            <rect key="frame" x="0.0"
+                                            <rect key="frame" x="0.0" y="0.0" width="213" height="243"/>
+                                     
