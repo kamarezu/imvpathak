@@ -35,4 +35,4 @@
                                             <rect key="frame" x="0.0" y="0.0" width="213" height="243"/>
                                             <autoresizingMask key="autoresizingMask"/>
                                             <subviews>
-                                                <imageView userInteract
+                                                <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" ver
