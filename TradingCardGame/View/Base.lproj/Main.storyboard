@@ -38,4 +38,4 @@
                                                 <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="3lx-zz-eSh">
                                                     <rect key="frame" x="0.0" y="0.0" width="213" height="243"/>
                                                 </imageView>
-                                                <activityIndica
+                                                <activityIndicatorView opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="750" vertic
