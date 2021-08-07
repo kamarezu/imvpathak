@@ -39,4 +39,5 @@
                                                     <rect key="frame" x="0.0" y="0.0" width="213" height="243"/>
                                                 </imageView>
                                                 <activityIndicatorView opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" fixedFrame="YES" style="gray" translatesAutoresizingMaskIntoConstraints="NO" id="GEP-w1-f0b">
-                                     
+                                                    <rect key="frame" x="96" y="112" width="20" height="20"/>
+       
