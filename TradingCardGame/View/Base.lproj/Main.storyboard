@@ -40,4 +40,5 @@
                                                 </imageView>
                                                 <activityIndicatorView opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" fixedFrame="YES" style="gray" translatesAutoresizingMaskIntoConstraints="NO" id="GEP-w1-f0b">
                                                     <rect key="frame" x="96" y="112" width="20" height="20"/>
-                                                    <autoresizingMask key="autoresizingMas
+                                                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                 
