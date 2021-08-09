@@ -42,4 +42,6 @@
                                                     <rect key="frame" x="96" y="112" width="20" height="20"/>
                                                     <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                 </activityIndicatorView>
-                                            </s
+                                            </subviews>
+                                        </view>
+                     
