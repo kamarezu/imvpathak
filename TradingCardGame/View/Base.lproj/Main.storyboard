@@ -51,4 +51,6 @@
                                             <constraint firstItem="3lx-zz-eSh" firstAttribute="height" secondItem="e7H-sy-wGC" secondAttribute="height" id="zoe-TV-TZK"/>
                                         </constraints>
                                         <connections>
-                                            <outlet property="pokemonCardImage" destination="3lx-zz-eSh" id
+                                            <outlet property="pokemonCardImage" destination="3lx-zz-eSh" id="dbh-2R-KzZ"/>
+                                        </connections>
+       
