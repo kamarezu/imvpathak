@@ -54,4 +54,6 @@
                                             <outlet property="pokemonCardImage" destination="3lx-zz-eSh" id="dbh-2R-KzZ"/>
                                         </connections>
                                     </collectionViewCell>
-                     
+                                </cells>
+                            </collectionView>
+           
