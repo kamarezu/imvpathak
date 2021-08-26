@@ -56,4 +56,5 @@
                                     </collectionViewCell>
                                 </cells>
                             </collectionView>
-           
+                        </subviews>
+                        <color key="backgroundColor" red
