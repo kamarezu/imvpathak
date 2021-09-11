@@ -61,4 +61,4 @@
                         <constraints>
                             <constraint firstItem="D1Y-ls-scb" firstAttribute="height" secondItem="8bC-Xf-vdC" secondAttribute="height" id="INa-Fk-GhX"/>
                             <constraint firstItem="D1Y-ls-scb" firstAttribute="centerY" secondItem="6Tk-OE-BBY" secondAttribute="centerY" id="Q9x-uH-CMg"/>
-                            <constraint firstItem="D1Y-ls-scb" f
+                            <constraint firstItem="D1Y-ls-scb" firstAttribute="centerX" secondItem="6Tk-OE-BBY" secondAttribute="centerX" id="e3E-Bm-KHX"/>
