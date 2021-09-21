@@ -64,4 +64,6 @@
                             <constraint firstItem="D1Y-ls-scb" firstAttribute="centerX" secondItem="6Tk-OE-BBY" secondAttribute="centerX" id="e3E-Bm-KHX"/>
                             <constraint firstItem="D1Y-ls-scb" firstAttribute="width" secondItem="8bC-Xf-vdC" secondAttribute="width" id="u9m-ir-B2v"/>
                         </constraints>
-                        <viewLayoutGuid
+                        <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
+                    </view>
+                    <
