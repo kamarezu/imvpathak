@@ -66,4 +66,5 @@
                         </constraints>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                     </view>
-                    <
+                    <tabBarItem key="tabBarItem" title="Item" id="ToO-sO-zs8"/>
+           
