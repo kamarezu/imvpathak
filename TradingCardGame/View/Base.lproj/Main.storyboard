@@ -68,4 +68,5 @@
                     </view>
                     <tabBarItem key="tabBarItem" title="Item" id="ToO-sO-zs8"/>
                     <connections>
-                        <outlet property="pokemonCards
+                        <outlet property="pokemonCardsCollectionView" destination="D1Y-ls-scb" id="tXu-0d-74d"/>
+                    </con
