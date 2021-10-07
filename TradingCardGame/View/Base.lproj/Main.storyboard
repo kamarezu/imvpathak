@@ -71,4 +71,4 @@
                         <outlet property="pokemonCardsCollectionView" destination="D1Y-ls-scb" id="tXu-0d-74d"/>
                     </connections>
                 </viewController>
-                <placeholder placehol
+                <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"
