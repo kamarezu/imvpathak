@@ -80,4 +80,4 @@
             <objects>
                 <tabBarController automaticallyAdjustsScrollViewInsets="NO" id="WQX-AG-W69" sceneMemberID="viewController">
                     <toolbarItems/>
-                    <tabBar key="tabBar"
+                    <tabBar key="tabBar" contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" i
