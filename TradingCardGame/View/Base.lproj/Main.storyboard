@@ -78,4 +78,4 @@
         <!--Tab Bar Controller-->
         <scene sceneID="cMP-wf-U4F">
             <objects>
-            
+                <tabBarController automaticallyAdjustsScrollViewInsets="NO" id="WQX-AG-W69" sceneMember
