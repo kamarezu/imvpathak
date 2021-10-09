@@ -78,4 +78,6 @@
         <!--Tab Bar Controller-->
         <scene sceneID="cMP-wf-U4F">
             <objects>
-                <tabBarController automaticallyAdjustsScrollViewInsets="NO" id="WQX-AG-W69" sceneMember
+                <tabBarController automaticallyAdjustsScrollViewInsets="NO" id="WQX-AG-W69" sceneMemberID="viewController">
+                    <toolbarItems/>
+                    <tabBar key="tabBar"
