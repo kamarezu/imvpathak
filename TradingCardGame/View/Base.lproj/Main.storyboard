@@ -86,4 +86,5 @@
                     </tabBar>
                     <connections>
                         <segue destination="BYZ-38-t0r" kind="relationship" relationship="viewControllers" id="dEO-qd-CZk"/>
-                        <segue destinatio
+                        <segue destination="FsH-PJ-ajE" kind="relationship" relationship="viewControllers" id="lz4-sK-81X"/>
+  
