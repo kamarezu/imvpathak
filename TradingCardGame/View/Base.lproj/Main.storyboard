@@ -95,4 +95,5 @@
         </scene>
         <!--Item-->
         <scene sceneID="5Db-uj-Fgc">
-            <obj
+            <objects>
+                <viewController id="FsH-PJ-ajE" customClass="MagicViewController" customModule="
