@@ -98,4 +98,4 @@
             <objects>
                 <viewController id="FsH-PJ-ajE" customClass="MagicViewController" customModule="TradingCardGame" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="hv0-Xy-Jdy">
-       
+                        <rect key="frame" x="0.0" y="0.0" width="375" heig
