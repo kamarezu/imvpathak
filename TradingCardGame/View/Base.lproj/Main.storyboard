@@ -96,4 +96,5 @@
         <!--Item-->
         <scene sceneID="5Db-uj-Fgc">
             <objects>
-                <viewController id="FsH-PJ-ajE" customClass="MagicViewController" customModule="
+                <viewController id="FsH-PJ-ajE" customClass="MagicViewController" customModule="TradingCardGame" customModuleProvider="target" sceneMemberID="viewController">
+    
