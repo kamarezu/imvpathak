@@ -97,4 +97,5 @@
         <scene sceneID="5Db-uj-Fgc">
             <objects>
                 <viewController id="FsH-PJ-ajE" customClass="MagicViewController" customModule="TradingCardGame" customModuleProvider="target" sceneMemberID="viewController">
-    
+                    <view key="view" contentMode="scaleToFill" id="hv0-Xy-Jdy">
+       
