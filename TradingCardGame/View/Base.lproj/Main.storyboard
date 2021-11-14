@@ -112,4 +112,5 @@
                                 </collectionViewFlowLayout>
                                 <cells>
                                     <collectionViewCell opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" id="X1h-e5-ONT" customClass="MagicCardCell" customModule="TradingCardGame" customModuleProvider="target">
-                                        <rect key="frame"
+                                        <rect key="frame" x="92.5" y="0.0" width="190" height="206"/>
+                                        <a
