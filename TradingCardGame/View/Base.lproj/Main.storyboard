@@ -122,4 +122,5 @@
                                                     <rect key="frame" x="0.0" y="0.0" width="190" height="206"/>
                                                 </imageView>
                                                 <activityIndicatorView opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" fixedFrame="YES" style="gray" translatesAutoresizingMaskIntoConstraints="NO" id="qwx-zb-azz">
-                                                    <rect key="frame" x="85" 
+                                                    <rect key="frame" x="85" y="93" width="20" height="20"/>
+                                              
