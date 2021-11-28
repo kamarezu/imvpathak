@@ -126,4 +126,6 @@
                                                     <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                 </activityIndicatorView>
                                             </subviews>
-                      
+                                        </view>
+                                        <constraints>
+    
