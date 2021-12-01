@@ -128,4 +128,5 @@
                                             </subviews>
                                         </view>
                                         <constraints>
-                                            <constraint firstItem="9oJ-Ty-6K3" firstAttribute="
+                                            <constraint firstItem="9oJ-Ty-6K3" firstAttribute="width" secondItem="X1h-e5-ONT" secondAttribute="width" id="8gR-kc-NJv"/>
+                  
