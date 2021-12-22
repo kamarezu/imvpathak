@@ -137,4 +137,6 @@
                                             <outlet property="magicCardImage" destination="9oJ-Ty-6K3" id="ym2-Dp-0xP"/>
                                         </connections>
                                     </collectionViewCell>
-                                </
+                                </cells>
+                            </collectionView>
+                        </subvi
