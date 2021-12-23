@@ -139,4 +139,5 @@
                                     </collectionViewCell>
                                 </cells>
                             </collectionView>
-                        </subvi
+                        </subviews>
+                        <color key="backgroundColor" white="1" al
