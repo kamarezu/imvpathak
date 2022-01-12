@@ -147,4 +147,5 @@
                             <constraint firstItem="oxH-uA-JvJ" firstAttribute="centerY" secondItem="0yz-OH-af4" secondAttribute="centerY" id="V3p-yU-fSH"/>
                             <constraint firstItem="oxH-uA-JvJ" firstAttribute="width" secondItem="hv0-Xy-Jdy" secondAttribute="width" id="hlC-6p-6lz"/>
                         </constraints>
+                        <viewLayoutGuide key="safeArea" id="0yz-OH-af4"/>
                   
