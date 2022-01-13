@@ -149,4 +149,6 @@
                         </constraints>
                         <viewLayoutGuide key="safeArea" id="0yz-OH-af4"/>
                     </view>
-                    <tabBarItem key="tabBarItem" title="Item" i
+                    <tabBarItem key="tabBarItem" title="Item" id="azz-uv-uYt"/>
+                    <connections>
+                        <outlet property="
