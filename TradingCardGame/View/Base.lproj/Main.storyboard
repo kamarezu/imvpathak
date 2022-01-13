@@ -148,4 +148,5 @@
                             <constraint firstItem="oxH-uA-JvJ" firstAttribute="width" secondItem="hv0-Xy-Jdy" secondAttribute="width" id="hlC-6p-6lz"/>
                         </constraints>
                         <viewLayoutGuide key="safeArea" id="0yz-OH-af4"/>
-                  
+                    </view>
+                    <tabBarItem key="tabBarItem" title="Item" i
