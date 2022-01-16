@@ -152,4 +152,6 @@
                     <tabBarItem key="tabBarItem" title="Item" id="azz-uv-uYt"/>
                     <connections>
                         <outlet property="magicCardsCollectionView" destination="oxH-uA-JvJ" id="nfk-6G-E0t"/>
-         
+                    </connections>
+                </viewController>
+                <placeholder place
