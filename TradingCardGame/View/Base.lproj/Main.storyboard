@@ -157,4 +157,6 @@
                 <placeholder placeholderIdentifier="IBFirstResponder" id="flk-iW-HCu" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="-95.200000000000003" y="26.53673163418291"/>
-        </scene
+        </scene>
+        <!--Magic Detail View Controller-->
+        <scene sceneID="NtE-UH-sjV"
