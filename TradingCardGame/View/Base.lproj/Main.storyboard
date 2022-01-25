@@ -159,4 +159,6 @@
             <point key="canvasLocation" x="-95.200000000000003" y="26.53673163418291"/>
         </scene>
         <!--Magic Detail View Controller-->
-        <scene sceneID="NtE-UH-sjV"
+        <scene sceneID="NtE-UH-sjV">
+            <objects>
+                <viewController id="bnB-5J-nqT" customClass
