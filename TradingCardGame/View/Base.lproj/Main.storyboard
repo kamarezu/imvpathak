@@ -161,4 +161,5 @@
         <!--Magic Detail View Controller-->
         <scene sceneID="NtE-UH-sjV">
             <objects>
-                <viewController id="bnB-5J-nqT" customClass="MagicDetailViewController" customModule="TradingCardGame" customModuleProvider
+                <viewController id="bnB-5J-nqT" customClass="MagicDetailViewController" customModule="TradingCardGame" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" content
