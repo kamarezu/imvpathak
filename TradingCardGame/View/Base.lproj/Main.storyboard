@@ -163,4 +163,5 @@
             <objects>
                 <viewController id="bnB-5J-nqT" customClass="MagicDetailViewController" customModule="TradingCardGame" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="pBy-Ed-OfD">
-                        <rect key="frame" x="0.0" y
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMas
