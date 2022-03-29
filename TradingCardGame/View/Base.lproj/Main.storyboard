@@ -171,4 +171,5 @@
                                 <subviews>
                                     <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" textAlignment="natural" translatesAutoresizingMaskIntoConstraints="NO" id="8Wp-GO-n6v">
                                         <rect key="frame" x="30" y="264" width="240" height="128"/>
-                                        <autoresizingMask key="autoresizingMask" flexibleMaxX="
+                                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                        <col
