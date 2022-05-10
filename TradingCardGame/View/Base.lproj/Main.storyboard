@@ -181,4 +181,5 @@
                                         <rect key="frame" x="116" y="219" width="42" height="21"/>
                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                         <fontDescription key="fontDescription" type="system" pointSize="17"/>
-                                        <nil key="t
+                                        <nil key="textColor"/>
+                                        <nil key="highlightedCol
