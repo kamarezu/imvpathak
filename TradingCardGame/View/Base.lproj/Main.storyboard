@@ -193,4 +193,5 @@
                                     </label>
                                 </subviews>
                                 <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                            </view
+                            </view>
+                            <imageView userInteractionEnabled="NO" contentMode="s
