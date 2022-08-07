@@ -202,4 +202,5 @@
                                 <rect key="frame" x="177" y="197" width="20" height="20"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </activityIndicatorView>
-                        </s
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="
