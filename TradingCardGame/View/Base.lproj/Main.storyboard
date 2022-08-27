@@ -206,4 +206,4 @@
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                         <constraints>
                             <constraint firstItem="bZM-Sl-QwY" firstAttribute="width" secondItem="pBy-Ed-OfD" secondAttribute="width" multiplier="0.8" id="VIL-Kp-2LY"/>
-                            <constraint firstItem=
+                            <constraint firstItem="bZM-Sl-QwY" firstAttribute="centerY" secondItem="NTe-AS-UMb" secondAttribute=
