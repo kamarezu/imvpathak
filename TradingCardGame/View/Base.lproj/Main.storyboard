@@ -207,4 +207,5 @@
                         <constraints>
                             <constraint firstItem="bZM-Sl-QwY" firstAttribute="width" secondItem="pBy-Ed-OfD" secondAttribute="width" multiplier="0.8" id="VIL-Kp-2LY"/>
                             <constraint firstItem="bZM-Sl-QwY" firstAttribute="centerY" secondItem="NTe-AS-UMb" secondAttribute="centerY" id="YZe-ft-hgz"/>
-                            <constraint firstItem="bZM-Sl-QwY" firstAttribute="height" secondItem="pBy-Ed-OfD" secondAttribute="h
+                            <constraint firstItem="bZM-Sl-QwY" firstAttribute="height" secondItem="pBy-Ed-OfD" secondAttribute="height" multiplier="0.6" id="hk1-lh-7kg"/>
+                            <constraint f
