@@ -210,4 +210,5 @@
                             <constraint firstItem="bZM-Sl-QwY" firstAttribute="height" secondItem="pBy-Ed-OfD" secondAttribute="height" multiplier="0.6" id="hk1-lh-7kg"/>
                             <constraint firstItem="bZM-Sl-QwY" firstAttribute="centerX" secondItem="NTe-AS-UMb" secondAttribute="centerX" id="o5n-E5-rPK"/>
                         </constraints>
-               
+                        <viewLayoutGuide key="safeArea" id="NTe-AS-UMb"/>
+                    </view
