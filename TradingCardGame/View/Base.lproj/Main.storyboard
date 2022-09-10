@@ -211,4 +211,6 @@
                             <constraint firstItem="bZM-Sl-QwY" firstAttribute="centerX" secondItem="NTe-AS-UMb" secondAttribute="centerX" id="o5n-E5-rPK"/>
                         </constraints>
                         <viewLayoutGuide key="safeArea" id="NTe-AS-UMb"/>
-                    </view
+                    </view>
+                    <connections>
+                        <outlet
