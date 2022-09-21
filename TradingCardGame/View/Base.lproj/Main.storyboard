@@ -214,4 +214,5 @@
                     </view>
                     <connections>
                         <outlet property="magicCardNameLabel" destination="PLU-03-K2W" id="dPf-uO-66K"/>
-                        <outlet property="magicDescriptionTextView" destination="8Wp-G
+                        <outlet property="magicDescriptionTextView" destination="8Wp-GO-n6v" id="yu7-JG-lBL"/>
+                        <outlet property="magicLangu
