@@ -216,4 +216,6 @@
                         <outlet property="magicCardNameLabel" destination="PLU-03-K2W" id="dPf-uO-66K"/>
                         <outlet property="magicDescriptionTextView" destination="8Wp-GO-n6v" id="yu7-JG-lBL"/>
                         <outlet property="magicLanguageLabel" destination="XmU-4L-cN3" id="3Nz-hq-FV1"/>
-                    <
+                    </connections>
+                </viewController>
+                <placeholder placeholderIde
