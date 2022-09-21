@@ -213,4 +213,5 @@
                         <viewLayoutGuide key="safeArea" id="NTe-AS-UMb"/>
                     </view>
                     <connections>
-                        <outlet
+                        <outlet property="magicCardNameLabel" destination="PLU-03-K2W" id="dPf-uO-66K"/>
+                    
