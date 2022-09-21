@@ -218,4 +218,6 @@
                         <outlet property="magicLanguageLabel" destination="XmU-4L-cN3" id="3Nz-hq-FV1"/>
                     </connections>
                 </viewController>
-                <placeholder placeholderIdentifier="IBFirstResponder" id="iW4-Gf-9dF" userLabel="First Responder" sceneMem
+                <placeholder placeholderIdentifier="IBFirstResponder" id="iW4-Gf-9dF" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLo
