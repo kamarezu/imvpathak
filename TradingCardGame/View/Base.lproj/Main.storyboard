@@ -222,4 +222,7 @@
             </objects>
             <point key="canvasLocation" x="-95" y="760"/>
         </scene>
-        <!--Pokemon Detail View Controlle
+        <!--Pokemon Detail View Controller-->
+        <scene sceneID="Tqu-IM-Hb0">
+            <objects>
+          
