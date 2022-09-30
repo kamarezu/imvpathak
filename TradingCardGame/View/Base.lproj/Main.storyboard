@@ -220,4 +220,6 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="iW4-Gf-9dF" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLo
+            <point key="canvasLocation" x="-95" y="760"/>
+        </scene>
+        <!--Pokemon Detail View Controlle
