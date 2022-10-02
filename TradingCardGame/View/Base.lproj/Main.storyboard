@@ -225,4 +225,5 @@
         <!--Pokemon Detail View Controller-->
         <scene sceneID="Tqu-IM-Hb0">
             <objects>
-                <viewController id="zGo-dA-rxq" customClass="PokemonDetailViewController" customModule="TradingCardGame" customModuleProvider="target" sceneMemberID="viewC
+                <viewController id="zGo-dA-rxq" customClass="PokemonDetailViewController" customModule="TradingCardGame" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="s
