@@ -227,4 +227,5 @@
             <objects>
                 <viewController id="zGo-dA-rxq" customClass="PokemonDetailViewController" customModule="TradingCardGame" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="7Dh-Wd-dvC">
-                        <rect key="frame" x="0.0" y="0.0" width="
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask
