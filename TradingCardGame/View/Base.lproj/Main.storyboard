@@ -231,4 +231,5 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="tCh-4E-WpQ">
-                                <rect key="fr
+                                <rect key="frame" x="37.5" y="143.5" width="300" height="400"/>
+             
