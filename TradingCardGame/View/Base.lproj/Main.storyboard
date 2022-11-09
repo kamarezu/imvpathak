@@ -234,4 +234,5 @@
                                 <rect key="frame" x="37.5" y="143.5" width="300" height="400"/>
                                 <subviews>
                                     <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="nuG-9t-FIA">
-                                        <rect key="frame"
+                                        <rect key="frame" x="30" y="0.0" width="240" height="128"/>
+                                    
