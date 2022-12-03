@@ -238,4 +238,5 @@
                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                     </imageView>
                                     <collectionView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" dataMode="prototypes" translatesAutoresizingMaskIntoConstraints="NO" id="3cx-Pg-CW1">
-                                        <rect key="frame" x="
+                                        <rect key="frame" x="30" y="264" width="240" height="128"/>
+                                        <autoresizingMa
