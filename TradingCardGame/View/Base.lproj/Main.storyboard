@@ -250,4 +250,4 @@
                                         <cells>
                                             <collectionViewCell opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" id="hEI-8j-9KO" customClass="PokemonAttackDetailCell" customModule="TradingCardGame" customModuleProvider="target">
                                                 <rect key="frame" x="0.0" y="0.0" width="240" height="122"/>
-                 
+                                                <autoresizingMask key="autoresizi
