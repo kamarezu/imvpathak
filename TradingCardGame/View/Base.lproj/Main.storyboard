@@ -266,4 +266,5 @@
                                                             <rect key="frame" x="20" y="50" width="42" height="21"/>
                                                             <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                             <fontDescription key="fontDescription" type="system" pointSize="17"/>
-                                                            <nil key
+                                                            <nil key="textColor"/>
+                                                            <nil key="hig
