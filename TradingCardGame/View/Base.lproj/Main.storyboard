@@ -272,4 +272,4 @@
                                                         <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" textAlignment="natural" translatesAutoresizingMaskIntoConstraints="NO" id="EC1-sV-2VR">
                                                             <rect key="frame" x="90" y="24" width="130" height="98"/>
                                                             <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                        
+                                                            <color key="backgroundColor" white="1" alpha="1" colorSpace="cus
