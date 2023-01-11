@@ -273,4 +273,4 @@
                                                             <rect key="frame" x="90" y="24" width="130" height="98"/>
                                                             <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                             <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                         
+                                                            <string key="text">Lorem ipsum dolor sit 
