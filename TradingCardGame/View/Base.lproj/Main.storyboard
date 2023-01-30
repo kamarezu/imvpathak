@@ -280,4 +280,4 @@
                                                     </subviews>
                                                 </view>
                                                 <connections>
-                     
+                                                    <outlet property="attackDescriptionTextView" des
