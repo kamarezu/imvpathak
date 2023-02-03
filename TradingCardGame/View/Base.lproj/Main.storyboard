@@ -280,4 +280,5 @@
                                                     </subviews>
                                                 </view>
                                                 <connections>
-                                                    <outlet property="attackDescriptionTextView" des
+                                                    <outlet property="attackDescriptionTextView" destination="EC1-sV-2VR" id="6Ni-8Z-GPG"/>
+                                                    <o
