@@ -282,4 +282,4 @@
                                                 <connections>
                                                     <outlet property="attackDescriptionTextView" destination="EC1-sV-2VR" id="6Ni-8Z-GPG"/>
                                                     <outlet property="attackNameLabel" destination="n0h-vm-r04" id="8gG-q4-TaI"/>
- 
+                                                    <outlet property="attackPowe
