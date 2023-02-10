@@ -284,4 +284,6 @@
                                                     <outlet property="attackNameLabel" destination="n0h-vm-r04" id="8gG-q4-TaI"/>
                                                     <outlet property="attackPowerLabel" destination="k06-Kn-gLd" id="MC9-bh-lBp"/>
                                                 </connections>
-                                            
+                                            </collectionViewCell>
+                                        </cells>
+                      
