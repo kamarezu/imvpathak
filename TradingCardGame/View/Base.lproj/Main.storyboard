@@ -286,4 +286,5 @@
                                                 </connections>
                                             </collectionViewCell>
                                         </cells>
-                      
+                                    </collectionView>
+                                    <activityIn
