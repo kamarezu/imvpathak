@@ -288,4 +288,5 @@
                                         </cells>
                                     </collectionView>
                                     <activityIndicatorView opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" fixedFrame="YES" style="gray" translatesAutoresizingMaskIntoConstraints="NO" id="59A-ZH-JEw">
-                                        <rect k
+                                        <rect key="frame" x="140" y="54" width="20" height="20"/>
+                          
