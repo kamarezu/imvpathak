@@ -287,4 +287,4 @@
                                             </collectionViewCell>
                                         </cells>
                                     </collectionView>
-                                    <activityIn
+                                    <activityIndicatorView opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHugging
