@@ -291,4 +291,5 @@
                                         <rect key="frame" x="140" y="54" width="20" height="20"/>
                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                     </activityIndicatorView>
-                          
+                                </subviews>
+                                <color key="backgroun
