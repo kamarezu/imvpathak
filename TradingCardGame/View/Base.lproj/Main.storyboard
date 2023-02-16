@@ -296,4 +296,5 @@
                             </view>
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                        <constraint
+                        <constraints>
+                            <constraint firstItem="tCh-4E-WpQ" firstAttribute
