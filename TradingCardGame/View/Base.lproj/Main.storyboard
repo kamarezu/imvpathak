@@ -298,4 +298,4 @@
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                         <constraints>
                             <constraint firstItem="tCh-4E-WpQ" firstAttribute="centerX" secondItem="06t-hP-NAZ" secondAttribute="centerX" id="5e8-CQ-oHG"/>
-                            <constraint firstItem="tCh-4E-WpQ" firstAt
+                            <constraint firstItem="tCh-4E-WpQ" firstAttribute="height" secondItem="7Dh-Wd-dvC" secondAttribute="height" multiplier="0.6" id="AhC-M
