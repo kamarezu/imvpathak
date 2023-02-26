@@ -302,4 +302,7 @@
                             <constraint firstItem="tCh-4E-WpQ" firstAttribute="centerY" secondItem="06t-hP-NAZ" secondAttribute="centerY" id="oLt-PT-7j0"/>
                             <constraint firstItem="tCh-4E-WpQ" firstAttribute="width" secondItem="7Dh-Wd-dvC" secondAttribute="width" multiplier="0.8" id="pcL-aL-CDx"/>
                         </constraints>
-                        <viewLayoutGuide key="safeArea" id="06t-
+                        <viewLayoutGuide key="safeArea" id="06t-hP-NAZ"/>
+                    </view>
+                    <connections>
+              
