@@ -300,4 +300,6 @@
                             <constraint firstItem="tCh-4E-WpQ" firstAttribute="centerX" secondItem="06t-hP-NAZ" secondAttribute="centerX" id="5e8-CQ-oHG"/>
                             <constraint firstItem="tCh-4E-WpQ" firstAttribute="height" secondItem="7Dh-Wd-dvC" secondAttribute="height" multiplier="0.6" id="AhC-MH-RzP"/>
                             <constraint firstItem="tCh-4E-WpQ" firstAttribute="centerY" secondItem="06t-hP-NAZ" secondAttribute="centerY" id="oLt-PT-7j0"/>
-                            <constraint firstItem="tCh-4E-WpQ" firstAttribute="width" secondItem="7Dh-Wd-dvC" secondAttribute="width" multiplier="0.8" id="pcL-aL-CDx"/
+                            <constraint firstItem="tCh-4E-WpQ" firstAttribute="width" secondItem="7Dh-Wd-dvC" secondAttribute="width" multiplier="0.8" id="pcL-aL-CDx"/>
+                        </constraints>
+                        <viewLayoutGuide key="safeArea" id="06t-
