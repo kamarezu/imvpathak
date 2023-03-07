@@ -306,4 +306,5 @@
                     </view>
                     <connections>
                         <outlet property="pokemonAttackCollectionView" destination="3cx-Pg-CW1" id="Cwd-AX-VCg"/>
-                        <outlet property="pokemonCa
+                        <outlet property="pokemonCardImage" destination="nuG-9t-FIA" id="1Xm-nT-5Ky"/>
+                    </connect
