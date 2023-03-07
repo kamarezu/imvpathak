@@ -305,4 +305,5 @@
                         <viewLayoutGuide key="safeArea" id="06t-hP-NAZ"/>
                     </view>
                     <connections>
-                        <outlet property="pokemonAttackCollectionView" destination="3cx-
+                        <outlet property="pokemonAttackCollectionView" destination="3cx-Pg-CW1" id="Cwd-AX-VCg"/>
+                        <outlet property="pokemonCa
