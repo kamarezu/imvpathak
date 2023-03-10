@@ -309,4 +309,6 @@
                         <outlet property="pokemonCardImage" destination="nuG-9t-FIA" id="1Xm-nT-5Ky"/>
                     </connections>
                 </viewController>
-                <placeholder placeholderIdentifier="IBFirstResponder" id="ory-nR-ylo" userLabel="First Responder" sc
+                <placeholder placeholderIdentifier="IBFirstResponder" id="ory-nR-ylo" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="13
