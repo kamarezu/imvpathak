@@ -8,4 +8,5 @@
 
 import UIKit
 
-class MagicCardCell: UIColle
+class MagicCardCell: UICollectionViewCell {
+  @IBOutlet weak var magicCardImage: UIImageView!
