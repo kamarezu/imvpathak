@@ -8,4 +8,5 @@
 
 import UIKit
 
-cl
+class PokemonAttackDetailCell: UICollectionViewCell {
+  @IBOutlet weak var attackPowerLabel: UILabel!
