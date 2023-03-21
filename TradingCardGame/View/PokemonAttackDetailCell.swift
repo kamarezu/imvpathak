@@ -10,3 +10,5 @@ import UIKit
 
 class PokemonAttackDetailCell: UICollectionViewCell {
   @IBOutlet weak var attackPowerLabel: UILabel!
+  @IBOutlet weak var attackNameLabel: UILabel!
+  @IBOutlet weak var attackDescriptionTextView: UI
