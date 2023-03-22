@@ -8,4 +8,6 @@
 
 import UIKit
 
-class PokemonCa
+class PokemonCardCell: UICollectionViewCell {
+  @IBOutlet weak var pokemonCardImage: UIImageView!
+}
