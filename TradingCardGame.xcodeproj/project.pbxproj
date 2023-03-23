@@ -11,3 +11,76 @@
 		0A0D194121E6600D006CD668 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A0D194021E6600D006CD668 /* AppDelegate.swift */; };
 		0A0D194321E6600D006CD668 /* PokemonViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A0D194221E6600D006CD668 /* PokemonViewController.swift */; };
 		0A0D194621E6600D006CD668 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0A0D194421E6600D006CD668 /* Main.storyboard */; };
+		0A0D194821E6600F006CD668 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0A0D194721E6600F006CD668 /* Assets.xcassets */; };
+		0A0D194B21E6600F006CD668 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0A0D194921E6600F006CD668 /* LaunchScreen.storyboard */; };
+		0A0D195521E66051006CD668 /* PokemonAPIClient.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A0D195421E66051006CD668 /* PokemonAPIClient.swift */; };
+		0A0D195821E6609C006CD668 /* Pokemon.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A0D195721E6609C006CD668 /* Pokemon.swift */; };
+		0A0D195C21E6646E006CD668 /* PokemonCardCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A0D195B21E6646E006CD668 /* PokemonCardCell.swift */; };
+		0A0D195E21E66575006CD668 /* MagicCardCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A0D195D21E66575006CD668 /* MagicCardCell.swift */; };
+		0A0D196021E66596006CD668 /* MagicViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A0D195F21E66596006CD668 /* MagicViewController.swift */; };
+		0A0D196221E66614006CD668 /* MagicDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A0D196121E66614006CD668 /* MagicDetailViewController.swift */; };
+		0A0D196421E6661E006CD668 /* PokemonDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A0D196321E6661E006CD668 /* PokemonDetailViewController.swift */; };
+		0A0D196621E66AB7006CD668 /* PokemonAttackDetailCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A0D196521E66AB7006CD668 /* PokemonAttackDetailCell.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		0A0D193D21E6600D006CD668 /* TradingCardGame.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TradingCardGame.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		0A0D194021E6600D006CD668 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		0A0D194221E6600D006CD668 /* PokemonViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PokemonViewController.swift; sourceTree = "<group>"; };
+		0A0D194521E6600D006CD668 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		0A0D194721E6600F006CD668 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		0A0D194A21E6600F006CD668 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		0A0D194C21E6600F006CD668 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0A0D195421E66051006CD668 /* PokemonAPIClient.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PokemonAPIClient.swift; sourceTree = "<group>"; };
+		0A0D195721E6609C006CD668 /* Pokemon.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Pokemon.swift; sourceTree = "<group>"; };
+		0A0D195B21E6646E006CD668 /* PokemonCardCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PokemonCardCell.swift; sourceTree = "<group>"; };
+		0A0D195D21E66575006CD668 /* MagicCardCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MagicCardCell.swift; sourceTree = "<group>"; };
+		0A0D195F21E66596006CD668 /* MagicViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = MagicViewController.swift; path = TradingCardGame/Controllers/MagicViewController.swift; sourceTree = SOURCE_ROOT; };
+		0A0D196121E66614006CD668 /* MagicDetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MagicDetailViewController.swift; sourceTree = "<group>"; };
+		0A0D196321E6661E006CD668 /* PokemonDetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PokemonDetailViewController.swift; sourceTree = "<group>"; };
+		0A0D196521E66AB7006CD668 /* PokemonAttackDetailCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PokemonAttackDetailCell.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		0A0D193A21E6600D006CD668 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		0A0D193421E6600D006CD668 = {
+			isa = PBXGroup;
+			children = (
+				0A0D193F21E6600D006CD668 /* TradingCardGame */,
+				0A0D193E21E6600D006CD668 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		0A0D193E21E6600D006CD668 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				0A0D193D21E6600D006CD668 /* TradingCardGame.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		0A0D193F21E6600D006CD668 /* TradingCardGame */ = {
+			isa = PBXGroup;
+			children = (
+				0A0D195921E660A4006CD668 /* Model */,
+				0A0D195621E66060006CD668 /* Network Services */,
+				0A0D195221E6601B006CD668 /* Supporting Files */,
+				0A0D195321E66023006CD668 /* Controllers */,
+				0A0D195A21E660B3006CD668 /* View */,
+				0A0D194721E6600F006CD668 /* Assets.xcassets */,
+				0A0D194C21E6600F006CD668 /* Info.plist */,
+			);
+			path = TradingCardGame;
+			sourceTree = "<group>";
+		};
+		0A0D195221E6601B006CD668 /* Supporting Files */ = {
+			isa = PBXGroup;
