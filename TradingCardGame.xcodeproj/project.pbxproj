@@ -84,3 +84,75 @@
 		};
 		0A0D195221E6601B006CD668 /* Supporting Files */ = {
 			isa = PBXGroup;
+			children = (
+				0A0D194021E6600D006CD668 /* AppDelegate.swift */,
+				0A0D194921E6600F006CD668 /* LaunchScreen.storyboard */,
+			);
+			path = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		0A0D195321E66023006CD668 /* Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				0A0D194221E6600D006CD668 /* PokemonViewController.swift */,
+				0A0D195F21E66596006CD668 /* MagicViewController.swift */,
+				0A0D196121E66614006CD668 /* MagicDetailViewController.swift */,
+				0A0D196321E6661E006CD668 /* PokemonDetailViewController.swift */,
+			);
+			path = Controllers;
+			sourceTree = "<group>";
+		};
+		0A0D195621E66060006CD668 /* Network Services */ = {
+			isa = PBXGroup;
+			children = (
+				0A0D195421E66051006CD668 /* PokemonAPIClient.swift */,
+			);
+			path = "Network Services";
+			sourceTree = "<group>";
+		};
+		0A0D195921E660A4006CD668 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				0A0D195721E6609C006CD668 /* Pokemon.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		0A0D195A21E660B3006CD668 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				0A0D194421E6600D006CD668 /* Main.storyboard */,
+				0A0D196521E66AB7006CD668 /* PokemonAttackDetailCell.swift */,
+				0A0D195D21E66575006CD668 /* MagicCardCell.swift */,
+				0A0D195B21E6646E006CD668 /* PokemonCardCell.swift */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		0A0D193C21E6600D006CD668 /* TradingCardGame */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 0A0D194F21E6600F006CD668 /* Build configuration list for PBXNativeTarget "TradingCardGame" */;
+			buildPhases = (
+				0A0D193921E6600D006CD668 /* Sources */,
+				0A0D193A21E6600D006CD668 /* Frameworks */,
+				0A0D193B21E6600D006CD668 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = TradingCardGame;
+			productName = TradingCardGame;
+			productReference = 0A0D193D21E6600D006CD668 /* TradingCardGame.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		0A0D193521E6600D006CD668 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 1010;
