@@ -156,3 +156,86 @@
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 1010;
+				LastUpgradeCheck = 1010;
+				ORGANIZATIONNAME = J;
+				TargetAttributes = {
+					0A0D193C21E6600D006CD668 = {
+						CreatedOnToolsVersion = 10.1;
+					};
+				};
+			};
+			buildConfigurationList = 0A0D193821E6600D006CD668 /* Build configuration list for PBXProject "TradingCardGame" */;
+			compatibilityVersion = "Xcode 9.3";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 0A0D193421E6600D006CD668;
+			productRefGroup = 0A0D193E21E6600D006CD668 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				0A0D193C21E6600D006CD668 /* TradingCardGame */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		0A0D193B21E6600D006CD668 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				0A0D194B21E6600F006CD668 /* LaunchScreen.storyboard in Resources */,
+				0A0D194821E6600F006CD668 /* Assets.xcassets in Resources */,
+				0A0D194621E6600D006CD668 /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		0A0D193921E6600D006CD668 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				0A0D195521E66051006CD668 /* PokemonAPIClient.swift in Sources */,
+				0A0D195C21E6646E006CD668 /* PokemonCardCell.swift in Sources */,
+				0A0D196021E66596006CD668 /* MagicViewController.swift in Sources */,
+				0A0D195821E6609C006CD668 /* Pokemon.swift in Sources */,
+				0A0D196621E66AB7006CD668 /* PokemonAttackDetailCell.swift in Sources */,
+				0A0D195E21E66575006CD668 /* MagicCardCell.swift in Sources */,
+				0A0D196221E66614006CD668 /* MagicDetailViewController.swift in Sources */,
+				0A0D194321E6600D006CD668 /* PokemonViewController.swift in Sources */,
+				0A0D194121E6600D006CD668 /* AppDelegate.swift in Sources */,
+				0A0D196421E6661E006CD668 /* PokemonDetailViewController.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		0A0D194421E6600D006CD668 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				0A0D194521E6600D006CD668 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		0A0D194921E6600F006CD668 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				0A0D194A21E6600F006CD668 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		0A0D194D21E6600F006CD668 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
