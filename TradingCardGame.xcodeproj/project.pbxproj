@@ -385,3 +385,30 @@
 				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		0A0D193821E6600D006CD668 /* Build configuration list for PBXProject "TradingCardGame" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				0A0D194D21E6600F006CD668 /* Debug */,
+				0A0D194E21E6600F006CD668 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		0A0D194F21E6600F006CD668 /* Build configuration list for PBXNativeTarget "TradingCardGame" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				0A0D195021E6600F006CD668 /* Debug */,
+				0A0D195121E6600F006CD668 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 0A0D193521E6600D006CD668 /* Project object */;
+}
